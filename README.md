@@ -5,7 +5,6 @@ This repository analyzes the relationship between trader performance (Hyperliqui
 **Datasets**
 - **Historical trader data**: provided via Google Drive — https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 - **Fear/Greed Index**: provided via Google Drive — https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
-- Local copies used by the notebook: [fear_greed_index.csv](fear_greed_index.csv), [historical_data.csv](historical_data.csv)
 
 **Notebook**
 - Analysis notebook: [bitcoin_sentiment_trader_analysis.ipynb](bitcoin_sentiment_trader_analysis.ipynb)
